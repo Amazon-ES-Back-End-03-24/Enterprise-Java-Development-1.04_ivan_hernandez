@@ -5,7 +5,7 @@ public class Main {
         int minValue = myArray[0];
         int maxValue = myArray[0];
         int secondSmallerValue = myArray[0];
-
+//edit
         for (int i = 0; i < myArray.length; i++){
             if (myArray[i] > maxValue) {
                 maxValue = myArray[i];
